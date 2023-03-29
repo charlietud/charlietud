@@ -1,6 +1,6 @@
 Hello 👋 my name is Ramses.
 
-- Im deeply interested in front end dev, machine learning, emulation and pretty much tech in general 😎
+- Im deeply interested in front end dev, machine learning, emulation and pretty much tech in general 😺
 - I’m currently learning React 🌱 
 - I would love to contribute someday to emulation-related projects 💕
 
